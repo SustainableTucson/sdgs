@@ -1,0 +1,298 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.19)  19 APR 2020 23:57
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/danielstormont/sustainable_tucson/sustainable_development_goals/sdgs/sdg-report-2019.tex
+(/Users/danielstormont/sustainable_tucson/sustainable_development_goals/sdgs/sdg-report-2019.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count176
+\l__pdf_internal_box=\box45
+) (/Users/danielstormont/sustainable_tucson/sustainable_development_goals/sdgs/sdg-report-2019.aux)
+\openout1 = `sdg-report-2019.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+ (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count177
+\scratchdimen=\dimen137
+\scratchbox=\box46
+\nofMPsegments=\count178
+\nofMParguments=\count179
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count180
+\MPscratchDim=\dimen138
+\MPnumerator=\count181
+\makeMPintoPDFobject=\count182
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+<images/sdg-poster.png, id=1, 794.97pt x 614.295pt>
+File: images/sdg-poster.png Graphic file (type png)
+<use images/sdg-poster.png>
+Package pdftex.def Info: images/sdg-poster.png  used on input line 16.
+(pdftex.def)             Requested size: 360.0pt x 278.19238pt.
+<images/st-logo.jpg, id=3, 1339.0025pt x 1372.12625pt>
+File: images/st-logo.jpg Graphic file (type jpg)
+<use images/st-logo.jpg>
+Package pdftex.def Info: images/st-logo.jpg  used on input line 19.
+(pdftex.def)             Requested size: 108.0011pt x 110.67262pt.
+ [1
+
+
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/danielstormont/sustainable_tucson/sustainable_development_goals/sdgs/images/sdg-poster.png> </Users/danielstormont/sustainable_tucson/sustainable_development_goals/sdgs/images/st-logo.jpg>] [2
+
+] [3] [4
+
+] (/Users/danielstormont/sustainable_tucson/sustainable_development_goals/sdgs/sdg-report-2019.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+ [5]
+Overfull \hbox (2.25433pt too wide) in paragraph at lines 23--23
+ [] []\OT1/cmr/bx/n/10.95 Sustainable De-vel-op-ment Goal 16: Peace, Jus-tice and Strong 
+ []
+
+
+Overfull \hbox (8.10483pt too wide) in paragraph at lines 24--24
+ [] []\OT1/cmr/bx/n/10.95 Sustainable De-vel-op-ment Goal 17: Part-ner-ships for the Goals []  
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `sdg-report-2019.toc'.
+
+ [6]
+Chapter 1.
+
+Overfull \hbox (1.69252pt too wide) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/14.4 Implement na-tion-ally ap-pro-pri-ate so-cial pro-tec-tion sys-
+ []
+
+[1
+
+
+]
+Overfull \hbox (10.1574pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/14.4 vul-ner-a-bil-ity to climate-related ex-treme events and other
+ []
+
+
+Overfull \hbox (10.14105pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 2 \OT1/cmr/m/sl/10.95 CHAPTER 1.  SUSTAINABLE DEVELOPMENT GOAL 1: NO POVERTY
+ []
+
+[2]
+Chapter 2.
+[3
+
+]
+Overfull \hbox (17.97337pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 4 \OT1/cmr/m/sl/10.95 CHAPTER 2.  SUSTAINABLE DEVELOPMENT GOAL 2: ZERO HUNGER
+ []
+
+[4
+
+]
+Chapter 3.
+[5]
+Overfull \hbox (120.39923pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 6 \OT1/cmr/m/sl/10.95 CHAPTER 3.  SUSTAINABLE DEVELOPMENT GOAL 3: GOOD HEALTH AND WELL-BEING
+ []
+
+[6
+
+]
+Chapter 4.
+[7]
+Overfull \hbox (58.50362pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 8 \OT1/cmr/m/sl/10.95 CHAPTER 4.  SUSTAINABLE DEVELOPMENT GOAL 4: QUALITY EDUCATION
+ []
+
+[8
+
+]
+Chapter 5.
+[9]
+Overfull \hbox (51.73592pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 10 \OT1/cmr/m/sl/10.95 CHAPTER 5.  SUSTAINABLE DEVELOPMENT GOAL 5: GENDER EQUALITY
+ []
+
+[10
+
+]
+Chapter 6.
+[11]
+Overfull \hbox (122.68037pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 12 \OT1/cmr/m/sl/10.95 CHAPTER 6.  SUSTAINABLE DEVELOPMENT GOAL 6: CLEAN WATER AND SANITATION
+ []
+
+[12
+
+]
+Chapter 7.
+[13]
+Overfull \hbox (137.3565pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 14 \OT1/cmr/m/sl/10.95 CHAPTER 7.  SUSTAINABLE DEVELOPMENT GOAL 7: AFFORDABLE AND CLEAN ENERGY
+ []
+
+[14
+
+]
+Chapter 8.
+[15]
+Overfull \hbox (174.15953pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 16 \OT1/cmr/m/sl/10.95 CHAPTER 8.  SUSTAINABLE DEVELOPMENT GOAL 8: DECENT WORK AND ECONOMIC GROWTH
+ []
+
+[16
+
+]
+Chapter 9.
+[17]
+Overfull \hbox (211.65042pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 18 \OT1/cmr/m/sl/10.95 CHAPTER 9.  SUSTAINABLE DEVELOPMENT GOAL 9: INDUSTRY, INNOVATION AND INFRASTRUCTURE
+ []
+
+[18
+
+]
+Chapter 10.
+[19]
+Overfull \hbox (91.80989pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 20 \OT1/cmr/m/sl/10.95 CHAPTER 10.  SUSTAINABLE DEVELOPMENT GOAL 10: REDUCED INEQUALITIES
+ []
+
+[20
+
+]
+Chapter 11.
+[21]
+Overfull \hbox (182.44925pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 22 \OT1/cmr/m/sl/10.95 CHAPTER 11.  SUSTAINABLE DEVELOPMENT GOAL 11: SUSTAINABLE CITIES AND COMMUNITIES
+ []
+
+[22
+
+]
+Chapter 12.
+[23]
+Overfull \hbox (224.57645pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 24 \OT1/cmr/m/sl/10.95 CHAPTER 12.  SUSTAINABLE DEVELOPMENT GOAL 12: RESPONSIBLE CONSUMPTION AND PRODUCTION
+ []
+
+[24
+
+]
+Chapter 13.
+[25]
+Overfull \hbox (51.0515pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 26 \OT1/cmr/m/sl/10.95 CHAPTER 13.  SUSTAINABLE DEVELOPMENT GOAL 13: CLIMATE ACTION
+ []
+
+[26
+
+]
+Chapter 14.
+[27]
+Overfull \hbox (65.34616pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 28 \OT1/cmr/m/sl/10.95 CHAPTER 14.  SUSTAINABLE DEVELOPMENT GOAL 14: LIFE BELOW WATER
+ []
+
+[28
+
+]
+Chapter 15.
+[29]
+Overfull \hbox (31.43158pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 30 \OT1/cmr/m/sl/10.95 CHAPTER 15.  SUSTAINABLE DEVELOPMENT GOAL 15: LIFE ON LAND
+ []
+
+[30
+
+]
+Chapter 16.
+[31]
+Overfull \hbox (203.66487pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 32 \OT1/cmr/m/sl/10.95 CHAPTER 16.  SUSTAINABLE DEVELOPMENT GOAL 16: PEACE, JUSTICE AND STRONG INSTITUTIONS
+ []
+
+[32
+
+]
+Chapter 17.
+[33] (/Users/danielstormont/sustainable_tucson/sustainable_development_goals/sdgs/sdg-report-2019.aux) ) 
+Here is how much of TeX's memory you used:
+ 1204 strings out of 480607
+ 18645 string characters out of 5903596
+ 253902 words of memory out of 5000000
+ 17125 multiletter control sequences out of 15000+600000
+ 538455 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,4n,25p,444b,190s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on /Users/danielstormont/sustainable_tucson/sustainable_development_goals/sdgs/sdg-report-2019.pdf (39 pages, 359218 bytes).
+PDF statistics:
+ 160 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
